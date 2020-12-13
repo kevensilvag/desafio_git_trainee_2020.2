@@ -1,2 +1,1 @@
-# Desafio Git - Trainee 2020.2
-
+# Esperando alguém passar...
